@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/zVw5X5n.png",
+            "IconURL": "https://i.imgur.com/h80paYh.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Home Page</>",
                     "title1": "<RichColor Color=\"1,0,0,1\">Welcome to Arked UP!</>",
-                    "text1": "<RichColor Color=\"1,0,0,1\">Server Rates : 5x XP 10x Tame 10x Harvest 10x crop growth 15x Breed</>.\n\n<RichColor Color=\"1,0,0,1\">Server rules : No passive tame sniping & no building in swamp cave/cp cave all others are fine. NO ORP (build defensively)</>\n\n<RichColor Color=\"1,0,0,1\">Server info : Increased stack size and reduced resource weight by 50%, solo farm remote , Easy tek progression and engram unlocks, custom boss loot bps & Tek BP's from Alpha and Beta varients , Boosted drops , Kibble and Chibis from Green drops , Boss artifacts from White drops</>\n\n<RichColor Color=\"1,0,0,1\">Join discord to stay up to date, make suggestions or submit a ticket ty</>",
+                    "text1": "<RichColor Color=\"1,0,0,1\">Server Rates : 5x XP 10x Tame 10x Harvest 10x crop growth 20x Breed</>\n\n<RichColor Color=\"1,0,0,1\">Server rules : No passive tame sniping & no building in swamp cave/cp cave all others are fine. NO ORP (build defensively)</>\n\n<RichColor Color=\"1,0,0,1\">Server info : Increased stack size and reduced resource weight by 50%, solo farm remote , Easy tek progression and engram unlocks, custom boss loot bps & Tek BP's from Alpha and Beta varients , Boosted drops , Kibble and Chibis from Green drops , Boss artifacts from White drops</>\n\n<RichColor Color=\"1,0,0,1\">Join discord to stay up to date, make suggestions or submit a ticket ty</>",
                     "imageurl": "https://i.imgur.com/jdsxfDl.jpeg"
                 }
             }
