@@ -27,7 +27,7 @@
             {
                 "link2": {
                     "text": "Arked UP! Discord",
-                    "url": "https://discord.com/invite/K7NyrTV"
+                    "url": "https://discord.gg/bke3ENjvCu"
                 }
             }
         ]
