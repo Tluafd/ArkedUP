@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/ON50i6j.png",
+            "IconURL": "https://i.imgur.com/tKTmbVS.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Home Page</>",
                     "title1": "<RichColor Color=\"1,0,0,1\">Welcome to Arked UP!</>",
-                    "text1": "<RichColor Color=\"1,0,0,1\">Server Rates : 5x XP 10x Tame 10x Harvest 10x crop growth 15x Breed</>.\n\n<RichColor Color=\"1,0,0,1\">server info : Increased stack size and reduced resource weight by 50%, solo farm , Easy tek progression, custom boss loot Tek BP's from Beta and Aplha varients , boosted drops , engrams auto unlock, kibble and chibis from green drops , boss artifacts from white drops</>\n\n<RichColor Color=\"1,0,0,1\">Server rules : No passive tame sniping & no building in swamp cave/cp cave all others are fine. NO ORP (build defensively) </>",
+                    "text1": "<RichColor Color=\"1,0,0,1\">Server Rates : 5x XP 10x Tame 10x Harvest 10x crop growth 15x Breed</>.\n\n<RichColor Color=\"1,0,0,1\">server info : Increased stack size and reduced resource weight by 50%, solo farm , Easy tek progression, custom boss loot Tek BP's from Beta and Aplha varients , boosted drops , engrams auto unlock, kibble and chibis from green drops , boss artifacts from white drops</>\n\n<RichColor Color=\"1,0,0,1\">Server rules : No passive tame sniping & no building in swamp cave/cp cave all others are fine. NO ORP (build defensively) </>"\n\nJoin discord to stay up to date,
                     "imageurl": "https://i.imgur.com/jdsxfDl.jpeg"
                 }
             }
@@ -26,7 +26,7 @@
         "links": [
             {
                 "link2": {
-                    "text": "Link to discord",
+                    "text": "Arked UP! Discord",
                     "url": "https://discord.com/invite/K7NyrTV"
                 }
             }
